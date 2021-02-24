@@ -1,0 +1,20 @@
+{  
+  "name": "mehenga-command-handler",
+  "version": "0.0.1",
+  "description": "A mehenga(advanced) command handler for Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {},
+  "license": "MIT",
+  "keywords": [],
+  "author": "SparkKnight"
+}
